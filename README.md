@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main()  {
+int main()  
+{
 	float amount, converted;
 	float rate = 56.85;
 	
